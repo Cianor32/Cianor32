@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on Initial Back-end and Front-End Ideas
+- 🌱 I’m currently learning Web-Development and Programming
 <!--
 **Cianor32/Cianor32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
